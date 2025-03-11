@@ -56,3 +56,9 @@ addTwo(5)
 const addTwo = function(num){
     return num + 2
 }
+
+
+// HIGHER ORDER FUNCTIO: One function pass as argument in another function  
+
+
+// function myfun(function())
